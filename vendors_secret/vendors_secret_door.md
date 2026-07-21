@@ -5,7 +5,7 @@ The technique: Cookie manipulation
 The tools: JWT.io
 
 In the Black Market Break-In CTF by Biterra, we have access to a special website that offers black market hacking services. For this challenge, we need to gain vendor access. 
-[!screenshotofvendorapplication]("whybecomeavendor.png")
+[!screenshotofvendorapplication](whybecomeavendor.png)
 
 First, I attempted to create an account as a vendor. When this didn’t work, I tried to make certain fields optional. I added bogus details and even experimented with SQL injections. 
 
