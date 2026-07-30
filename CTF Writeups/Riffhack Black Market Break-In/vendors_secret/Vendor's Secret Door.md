@@ -19,7 +19,7 @@ I looked up the cookie to figure out how to decode it. I found out it was a JSON
 ![screenshotofjwtio](Images/jsondecode.png)
 
 
-That’s where I knew I struck gold. There’s an option for vendor access that is set to “false”. Time to change that. I went into encode mode, wrote “true” for vendor access, and copied the cookie. I overrode the old cookie with the new one. 
+That’s when I knew I struck gold. There’s an option for vendor access that is set to “false”. Time to change that. I went into encode mode, wrote “true” for vendor access, and copied the cookie. I overrode the old cookie with the new one. 
 ![screenshotofvendordashboardwithflagbitflag{jwt_5h4ll_n0t_p455}](Images/whybecomeavendor.png)
 
 
