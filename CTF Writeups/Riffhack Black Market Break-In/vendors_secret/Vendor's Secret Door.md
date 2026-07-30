@@ -20,7 +20,7 @@ I looked up the cookie to figure out how to decode it. I found out it was a JSON
 
 
 That’s when I knew I struck gold. There’s an option for vendor access that is set to “false”. Time to change that. I went into encode mode, wrote “true” for vendor access, and copied the cookie. I overrode the old cookie with the new one. 
-![screenshotofvendordashboardwithflagbitflag{jwt_5h4ll_n0t_p455}](Images/whybecomeavendor.png)
+![screenshotofvendordashboardwithflagbitflag{jwt_5h4ll_n0t_p455}](Images/vendordashboard.png)
 
 
 Bingo! I was able to achieve instant vendor access. To be honest, this win caught me by surprise. Solving a medium difficulty challenge felt like a lofty goal. But this showed me that exploration and curiosity paved the way to discovery and success! 
