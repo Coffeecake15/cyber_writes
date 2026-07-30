@@ -1,8 +1,8 @@
-Black Market Break-In: The Vendor’s Secret Door
+# Black Market Break-In: The Vendor’s Secret Door
 
-The plan: Gain access to the special vendor view. 
-The technique: Cookie manipulation
-The tools: JWT.io
+### The plan: Gain access to the special vendor view. 
+### The technique: Cookie manipulation
+### The tools: JWT.io
 
 In the Black Market Break-In CTF by Biterra, we have access to a special website that offers black market hacking services. For this challenge, we need to gain vendor access. 
 
