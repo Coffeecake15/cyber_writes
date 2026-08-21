@@ -8,6 +8,7 @@
 Wooh! This was a tough one. I’ve been battling with reverse engineering for a while, so I really wanted to give this challenge a go. 
 
 After opening up Ghidra and giving the code a review, I noticed there were a ton of conditionals. If statements all down the line:
+
 ![screenshotoforiginalcode](Images/original_code.png)
 
 
