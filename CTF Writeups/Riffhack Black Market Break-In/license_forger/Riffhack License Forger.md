@@ -1,8 +1,8 @@
-# Black-Market Break-In: Riffhack License Forger
+# Black Market Break-In: Riffhack License Forger
 
-### The plan: Make the program provide paid access
-### The technique: Reverse engineering
-### The tools: Ghidra and decimal converters
+### THE PLAN: Make the program provide paid access
+### THE TECHNIQUE: Reverse engineering
+### THE TOOLS: Ghidra and decimal converters
 
 
 Wooh! This was a tough one. I’ve been battling with reverse engineering for a while, so I really wanted to give this challenge a go. 
