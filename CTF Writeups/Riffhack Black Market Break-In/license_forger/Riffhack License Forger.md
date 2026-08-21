@@ -1,8 +1,8 @@
-#Black-Market Break-In: Riffhack License Forger
+# Black-Market Break-In: Riffhack License Forger
 
-###The plan: Make the program provide paid access
-###The technique: Reverse engineering
-###The tools: Ghidra and decimal converters
+### The plan: Make the program provide paid access
+### The technique: Reverse engineering
+### The tools: Ghidra and decimal converters
 
 
 Wooh! This was a tough one. I’ve been battling with reverse engineering for a while, so I really wanted to give this challenge a go. 
@@ -91,11 +91,10 @@ RH-TRIAL-2026-OPEN!!
 Flag in the bag! Let’s go!
 
 Fun facts:
-I didn’t know what I was doing the entire time 
-The conditionals confused me constantly, specifically for the numbers in the middle
-Patching the instructions wasted so much time and led nowhere. 
-I need to get better at assembly!
-*I’m not sure I was actually supposed to brute force the program. I feel like I’m missing something. 
-I used ASCII and hex converters throughout this. Little did I know, Ghidra actually lets you do that. It definitely made things MUCH easier. 
-
-I was always intimidated by reverse engineering. Luckily, I’m learning to understand the tools and techniques a little bit better. 
+- I didn’t know what I was doing the entire time :D
+- The conditionals confused me constantly, specifically for the numbers in the middle
+- Patching the instructions wasted so much time and led nowhere. 
+- I need to get better at assembly!
+*I’m not sure I was actually supposed to brute force the program. I feel like I’m definitely missing something. The check was literally 2026, so I probably should've realized that meant something. 
+- I used ASCII and hex converters throughout this. Little did I know, Ghidra actually lets you do that. It definitely made things MUCH easier. 
+- I was always intimidated by reverse engineering. Luckily, I’m learning to understand the tools and techniques a little bit better. 
