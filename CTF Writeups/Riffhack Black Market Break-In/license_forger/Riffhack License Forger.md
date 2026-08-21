@@ -22,7 +22,9 @@ Sigh. It turns out the key and flag are based on user input. So anything that is
 
 I came back the next day with some fresh eyes. I knew that my only option was my initial approach: review the conditions and figure out the key. It would take time, but I knew that it was the right way. 
 
-Our first if statement isn’t really relevant, since it only checks to see if we have a demo key. I realized later this was useless. We should ignore this all together. 
+Our first if statement isn’t really relevant, since it only checks to see if we have a demo key. I realized later this was useless. We should ignore this altogether. 
+
+
 ![screenshotofcodeforafreetrial](Images/demo_trial_code.png)
 
 We don’t want that! We need the paid version!
